@@ -47,6 +47,7 @@ public class Program {
 			}
 		}
 		
+		System.out.println("Have a good day!");
 		sc.close();
 
 	}
